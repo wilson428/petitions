@@ -1,0 +1,28 @@
+{
+  "body": "The Copyright Alert System (CAS) is setup to automatically and permanently restrict Internet access due to complaints filed by third party copyright claimants.  This leads to pitfalls with regard to civil liberties, anti-trust laws, and due process.  CAS came about through \"backroom deals\" between media associations and ISPs, and may represent anticompetitive behavior at the expense of the user. \r\nOn some popular sites, egregious filing of DCMA takedown requests has led to the automatic censoring of media that was not in violation of copyright.  This may worsen in scope with CAS.\r\nIf a subscriber has her access unjustly terminated, it may deprive the user of the ability to mount a well-informed legal defense.  CAS may erroneously and abusively deprive access to digital government services.", 
+  "signature threshold": 100000, 
+  "title": "Direct the Attorney General and FCC to investigate the lawfulness of the Copyright Alert System", 
+  "url": "https://petitions.whitehouse.gov/petition/direct-attorney-general-and-fcc-investigate-lawfulness-copyright-alert-system/3GZgJN2z", 
+  "signatures needed": 99243, 
+  "created": 1361846615, 
+  "status": "open", 
+  "response": null, 
+  "signature count": 757, 
+  "deadline": 1364435015, 
+  "type": "petition", 
+  "id": "512c2157704301d51d00001b", 
+  "issues": [
+    {
+      "id": "4", 
+      "name": "Civil Rights and Liberties"
+    }, 
+    {
+      "id": "9", 
+      "name": "Consumer Protections"
+    }, 
+    {
+      "id": "157", 
+      "name": "Technology and Telecommunications"
+    }
+  ]
+}

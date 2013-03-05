@@ -1,3 +1,5 @@
+This is a clone of the United States petitions repo that includes data files.
+
 # Petitions
 
 These Python scripts retrieve open petitions on the [We The People](https://petitions.whitehouse.gov/petitions) and scan Twitter for mentions of petitions not yet on the site.

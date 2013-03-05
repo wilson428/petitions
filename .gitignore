@@ -1,5 +1,4 @@
 *.pyc
 cache/
-data/
 log/
 keys.json

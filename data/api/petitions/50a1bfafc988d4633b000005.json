@@ -1,0 +1,24 @@
+{
+  "body": "Deport Everyone That Signed A Petition To Withdraw Their State From The United States Of America.", 
+  "signature threshold": 25000, 
+  "title": "Deport Everyone That Signed A Petition To Withdraw Their State From The United States Of America.", 
+  "url": "https://petitions.whitehouse.gov/petition/deport-everyone-signed-petition-withdraw-their-state-united-states-america/dmQl1bXL", 
+  "signatures needed": 0, 
+  "created": 1352777647, 
+  "status": "responded", 
+  "response": {
+    "url": "https://petitions.whitehouse.gov/response/our-states-remain-united", 
+    "association time": "1357945935", 
+    "id": "726"
+  }, 
+  "signature count": 29650, 
+  "deadline": 1355369647, 
+  "type": "petition", 
+  "id": "50a1bfafc988d4633b000005", 
+  "issues": [
+    {
+      "id": "193", 
+      "name": "Government Reform"
+    }
+  ]
+}
